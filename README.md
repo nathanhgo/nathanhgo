@@ -18,6 +18,7 @@ Aficcionado por tecnologia e marketing digital
 ###### Próximas Linguagens & Bibliotecas:
 ![enter image description here](https://img.shields.io/badge/-React-lightblue?style=for-the-badge&logo=react&logoColor=white)
 ![enter image description here](https://img.shields.io/badge/-jQuery-blue?style=for-the-badge&logo=jquery&logoColor=white)
+![enter image description here](https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=Bootstrap&logoColor=white)
 ![enter image description here](https://img.shields.io/badge/-Node.JS-green?style=for-the-badge&logo=node.JS&logoColor=white)
 ![enter image description here](https://img.shields.io/badge/-Banco_de_Dados-brown?style=for-the-badge&logo=mariadb&logoColor=white)
 ###### Próximas tecnologias / Conceitos:
