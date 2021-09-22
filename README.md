@@ -3,16 +3,16 @@
 
 **Nathan Guimarães**, 19 anos,  Estudante de **front-end** 👨🏾‍💻
 
- 📆Ensino Médio completo em 2019
- 💻 Desde então estudando programação por conta
- 📚Conhecimentos relacionados a HTML, CSS e JavaScript
+ - 📆Ensino Médio completo em 2019
+ - 💻 Desde então estudando programação por conta
+ - 📚Conhecimentos relacionados a HTML, CSS e JavaScript
 
 ![enter image description here](https://github-readme-stats.vercel.app/api?username=nathanhgo&count_private=true&show_icons=true&custom_title=Github%20Status&hide=prs&theme=dracula)
 
 ## Estudando 📖
 ![enter image description here](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
-![enter image description here](https://img.shields.io/badge/-HTML5-blue?style=for-the-badge&logo=HTML5&logoColor=white)
-![enter image description here](https://img.shields.io/badge/-CSS3-orange?style=for-the-badge&logo=CSS3&logoColor=white)
+![enter image description here](https://img.shields.io/badge/-HTML-blue?style=for-the-badge&logo=HTML5&logoColor=white)
+![enter image description here](https://img.shields.io/badge/-CSS-orange?style=for-the-badge&logo=CSS3&logoColor=white)
 ###### Próximos passos:
 ![enter image description here](https://img.shields.io/badge/-React-lightblue?style=for-the-badge&logo=react&logoColor=white)
 ![enter image description here](https://img.shields.io/badge/-jQuery-blue?style=for-the-badge&logo=jquery&logoColor=white)
