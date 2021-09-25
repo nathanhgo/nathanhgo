@@ -4,11 +4,19 @@
 **Nathan Guimarães**, 19 anos,  Estudante de **front-end** 👨🏾‍💻 <br>
 Aficcionado por tecnologia e marketing digital
 
+<br>
+
  - 📆 Ensino Médio completo em 2019
  - 💻 Desde então estudando programação por conta
  - 📚 Conhecimentos relacionados a HTML, CSS e JavaScript
 
-![enter image description here](https://github-readme-stats.vercel.app/api?username=nathanhgo&count_private=true&show_icons=true&custom_title=Github%20Status&hide=prs&theme=dracula)
+<br>
+
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathanhgo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanhgo&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 ## Estudando 📖
 ###### Linguagens:
