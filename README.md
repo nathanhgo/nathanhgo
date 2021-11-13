@@ -45,7 +45,6 @@ Aficcionado por tecnologia e marketing digital
 
 ## Contato 📞
 
-<a href="https://instagram.com/nathanhgo">![enter image description here](https://img.shields.io/badge/-@nathanhgo-pink?style=for-the-badge&logo=instagram)</a>
 <a href="https://www.linkedin.com/in/nathanguimaraes/">![enter image description here](https://img.shields.io/badge/-Nathan_Guimarães-blue?style=for-the-badge&logo=linkedin)</a>
 <a href="mailto:nathanhguimaraes@gmail.com">![enter image description here](https://img.shields.io/badge/-nathanhguimaraes@gmail.com-pink?style=for-the-badge&logo=gmail)</a>
 <a href="https://linktr.ee/nathanhgo">![enter image description here](https://img.shields.io/badge/-outros_links-blue?style=for-the-badge&logo=linktree)</a>
