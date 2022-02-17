@@ -2,7 +2,7 @@
 
 > _Que a disciplina fale mais alto que a motivação_
 
-**Nathan Guimarães**, 19 anos, Estudante de **front-end** 👨🏾‍💻 <br>
+**Nathan Guimarães**, 20 anos, Estudante de **front-end** 👨🏾‍💻 <br>
 Aficcionado por tecnologia e marketing digital
 
 <br>
