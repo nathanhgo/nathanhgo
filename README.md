@@ -3,12 +3,12 @@
 > _Que a disciplina fale mais alto que a motivação_
 
 **Nathan Guimarães**, 20 anos, Estudante de **front-end** 👨🏾‍💻 <br>
-Aficcionado por tecnologia e marketing digital
+Aficcionado por tecnologia em geral!
 
 <br>
 
 - 📆 Ensino Médio completo em 2019
-- 💻 Desde então estudando programação por conta
+- 💻 Estudando programação por conta própria
 - 📚 Conhecimentos relacionados a HTML, CSS e JavaScript
 
 <br>
