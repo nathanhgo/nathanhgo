@@ -9,8 +9,7 @@ Aficcionado por tecnologia em geral!
 
 - 📆 Superior em Análise e Dev. de Sistemas (Cursando)
 - 💻 Estudando programação por conta própria
-- 📚 Conhecimentos relacionados a HTML, CSS e JavaScript
-
+- 📚 Conhecimentos relacionados a Django, Python, SQL, Javascript e Bootstrap
 <br>
 
 <div align="center">
@@ -21,25 +20,24 @@ Aficcionado por tecnologia em geral!
 
 ## Estudando 📖
 
-###### Linguagens:
+##### Linguagens:
 
-![enter image description here](https://img.shields.io/badge/-python-darkblue?style=for-the-badge&logo=python&logoColor=white)
+###### Front-end:
 ![enter image description here](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
-![enter image description here](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=HTML5&logoColor=white)
-![enter image description here](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=CSS3&logoColor=white)
-
-###### Próximas Linguagens & Bibliotecas:
-
-![enter image description here](https://img.shields.io/badge/-React-lightblue?style=for-the-badge&logo=react&logoColor=white)
 ![enter image description here](https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=Bootstrap&logoColor=white)
-![enter image description here](https://img.shields.io/badge/-Node.JS-green?style=for-the-badge&logo=node.JS&logoColor=white)
-![enter image description here](https://img.shields.io/badge/-Banco_de_Dados-brown?style=for-the-badge&logo=mariadb&logoColor=white)
+![enter image description here](https://img.shields.io/badge/-React-lightblue?style=for-the-badge&logo=react&logoColor=white)
 
-###### Próximas tecnologias / Conceitos:
+###### Back-end
+![enter image description here](https://img.shields.io/badge/-Python-darkblue?style=for-the-badge&logo=python&logoColor=white)
+![enter image description here](https://img.shields.io/badge/-Django-darkgreen?style=for-the-badge&logo=django&logoColor=white)
+![enter image description here](https://img.shields.io/badge/-Banco_de_Dados-brown?style=for-the-badge&logo=sqlite&logoColor=white)
+
+##### Conceitos:
 
 - 🔌 Consumo de API's
-- 🧹 Clean Code
-- 📈 Escalabilidade
+- 📱 Responsividade
+- 📈 Análise de Dados
+- 🤖 Ferramentas de IA
 
 ## Contato 📞
 
