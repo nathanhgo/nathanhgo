@@ -9,7 +9,7 @@ Aficcionado por tecnologia em geral!
 
 - 📆 Superior em Análise e Dev. de Sistemas (Cursando)
 - 💻 Estudando programação por conta própria
-- 📚 Conhecimentos relacionados a Django, Python, SQL, Javascript e Bootstrap
+- 📚 Conhecimentos relacionados a Django, Python, SQL, Javascript e TailwindCSS
 <br>
 
 <div align="center">
@@ -24,7 +24,7 @@ Aficcionado por tecnologia em geral!
 
 ###### Front-end:
 ![enter image description here](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
-![enter image description here](https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=Bootstrap&logoColor=white)
+![enter image description here](https://img.shields.io/badge/-TailwindCSS-white?style=for-the-badge&logo=Tailwindcss)
 ![enter image description here](https://img.shields.io/badge/-React-lightblue?style=for-the-badge&logo=react&logoColor=white)
 
 ###### Back-end
@@ -36,8 +36,7 @@ Aficcionado por tecnologia em geral!
 
 - 🔌 Consumo de API's
 - 📱 Responsividade
-- 📈 Análise de Dados
-- 🤖 Ferramentas de IA
+- ⚙ Engenharia de Software
 
 ## Contato 📞
 
