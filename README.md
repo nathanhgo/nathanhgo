@@ -1,5 +1,5 @@
 ### Hi there, I'm Nathan! 👋
-**Fullstack Developer & Go Enthusiast based in Brazil 🇧🇷**
+**Fullstack Developer & Tech Enthusiast based in Brazil 🇧🇷**
 
 > *"Learn how to see. Realize that everything connects to everything else."* — **Leonardo da Vinci**
 
@@ -7,11 +7,10 @@ I am a Systems Analysis undergraduate and a tech enthusiast driven by **performa
 
 Currently, I bridge the gap between industry and academia: I work as a **Software Development Intern** in the HR Tech sector (dealing with real-world scalability) and serve as an **Undergraduate Researcher**, focusing on Digital Image Processing and Scientific Initiation.
 
-I have a deep fascination for **Graph Data Structures** and how they model complex relationships. I apply this concept to build a node-based tool that make complex processing pipelines intuitive for end-users.
+I have a deep fascination for **GData Structures & Software Architecture** and how they model complex relationships from real world in code.
 
-- 🔭 **I’m currently working on:** A **node-based mass image editor** (Thesis/TCC) that uses a graph UI to democratize image processing workflows.
-- 🌱 **I’m currently learning:** Go Concurrency patterns, Microservices architecture, and **Italian** 🇮🇹.
-- 🐧 **Linux User:** I run **CachyOS** with **Hyprland** (I take ricing and system optimization seriously).
+- 🌱 **I’m currently learning:** Go Concurrency patterns, Clean Architecture, and **Italian** 🇮🇹.
+- 🐧 **Linux User:** Fascinated by the Linux world combined with customization with **Hyprland**.
 - ⚡ **Fun fact:** My long-term goal is to bootstrap my own tech company in Europe.
 
 ---
@@ -26,7 +25,6 @@ I have a deep fascination for **Graph Data Structures** and how they model compl
 
 **Backend & Core**
 <br>
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
